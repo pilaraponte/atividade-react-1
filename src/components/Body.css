@@ -1,5 +1,5 @@
 .body-container {
-    background: url('./background-body.png');
+    background-color: #afa2b4;
     opacity: 0.5;
     min-height: calc(100vh - 60px);
     display: flex;
